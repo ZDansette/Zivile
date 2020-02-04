@@ -1,0 +1,98 @@
+body{
+background: #E5E5E5;
+}
+
+h2{
+width: 500px;
+height: 39px;
+color: #000000;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+background-color: #EAEAEA;
+display: inline-block;
+position: relative;
+margin-right: 80px;
+text-align: center;
+top: 15%;
+left: 14%;
+
+}
+
+.table {
+width: 606px;
+height: 522px;
+background-color: #EAEAEA;
+margin-left: 35px;
+}
+
+.MainTable{
+width: 674px;
+height: 679px;
+background: #C4C4C4;
+position: relative;
+top: 30%;
+left: 30%;
+}
+
+
+.tableRows{
+ font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+margin-left: 10px;
+}
+
+p {
+text-align: center;
+color: #000000;
+font-size: 22px;
+}
+
+.Mindaugas{
+width: 60px;
+height: 60px;
+margin-left: 20px;
+}
+
+.line{
+	position:absolute;
+	top: 150px;
+	margin-right: 8000px;
+}
+
+.line2{
+	padding: 0;
+	height: 5px;
+	padding-left: 20px;
+}
+
+.phone{
+	margin-left: 230px;
+}
+
+.star{
+width: 33px;
+height: 31.62px;
+margin-left: 20px;
+}
+
+.star:hover{
+        background-color: yellow;
+
+}
+
+
+.eta{
+	margin-left: 20px;
+}
+
+td{
+	display: inline-block;
+}
+
+.lineImage{
+	height: 2px;
+	width: 550px;
+}
